@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PTA", "PTA\PTA.vcxproj", "{0EB810F4-90DB-4941-9326-246B50A91ADE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PTA-c", "PTA\PTA.vcxproj", "{0EB810F4-90DB-4941-9326-246B50A91ADE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PTA-cpp", "PTA-cpp\PTA-cpp.vcxproj", "{48C1092B-67FA-4252-8BFE-071E7402CF4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{0EB810F4-90DB-4941-9326-246B50A91ADE}.Release|x64.Build.0 = Release|x64
 		{0EB810F4-90DB-4941-9326-246B50A91ADE}.Release|x86.ActiveCfg = Release|Win32
 		{0EB810F4-90DB-4941-9326-246B50A91ADE}.Release|x86.Build.0 = Release|Win32
+		{48C1092B-67FA-4252-8BFE-071E7402CF4F}.Debug|x64.ActiveCfg = Debug|x64
+		{48C1092B-67FA-4252-8BFE-071E7402CF4F}.Debug|x64.Build.0 = Debug|x64
+		{48C1092B-67FA-4252-8BFE-071E7402CF4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{48C1092B-67FA-4252-8BFE-071E7402CF4F}.Debug|x86.Build.0 = Debug|Win32
+		{48C1092B-67FA-4252-8BFE-071E7402CF4F}.Release|x64.ActiveCfg = Release|x64
+		{48C1092B-67FA-4252-8BFE-071E7402CF4F}.Release|x64.Build.0 = Release|x64
+		{48C1092B-67FA-4252-8BFE-071E7402CF4F}.Release|x86.ActiveCfg = Release|Win32
+		{48C1092B-67FA-4252-8BFE-071E7402CF4F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

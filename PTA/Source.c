@@ -118,7 +118,7 @@ int main()
 }
 */
 //1004 成绩排名
-
+/*
 typedef struct score
 {
     char name[11];
@@ -162,4 +162,5 @@ int main()
     //此处应该养成free习惯
     return 0;
 }
+*/
 
